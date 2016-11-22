@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/joshlatto/pen/xVvpVj.
+This website is my tribute page to Stu Ungar, completed for Free Code Camp's first programming project. It was originally created as a [Pen](http://codepen.io/joshlatto/pen/xVvpVj) at CodePen.io. 
+
+ 
 
  
